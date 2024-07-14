@@ -35,6 +35,7 @@ While this repository is primarily for personal use, suggestions for improvement
 
 This project is open source and available under the [MIT License](LICENSE).
 
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://instagram.com/_mr_2001__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_2001__" height="30" width="40" /></a>
