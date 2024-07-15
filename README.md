@@ -1,7 +1,7 @@
-![GitHub](https://img.shields.io/github/license/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
+![GitHub](https://img.shields.io/github/license/Pavith19/IEEEXtreme17.0-solutions?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/Pavith19/IEEEXtreme17.0-solutions?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/IEEEXtreme17.0-solutions?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/Pavith19/IEEEXtreme17.0-solutions.svg?cache=remove)
 
 <p align="center">
   <img src="Assets/ieeextreme-17.png" alt="IEEEXtreme 17.0 2023 banner">
