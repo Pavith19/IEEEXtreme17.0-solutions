@@ -1,7 +1,5 @@
 
-
-
-[![GitHub Written in](https://img.shields.io/badge/Written%20in-SQL-blue)](https://img.shields.io/badge/Written%20in-SQL-blue)
+[![GitHub Written in](https://img.shields.io/badge/Written%20in-Multiple%20Languages-blue)](https://img.shields.io/badge/Written%20in-Multiple%20Languages-blue)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/IEEEXtreme17.0-solutions)](https://github.com/Pavith19/IEEEXtreme17.0-solutions/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/IEEEXtreme17.0-solutions)](https://github.com/Pavith19/IEEEXtreme17.0-solutions/archive/main.zip)
 ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/IEEEXtreme17.0-solutions.svg?cache=remove)
