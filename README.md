@@ -34,7 +34,12 @@ These solutions are my own work and were created for educational purposes. They 
 
 ## Contributing
 
-While this repository is primarily for personal use, suggestions for improvements or alternative solutions are welcome. Feel free to open an issue or submit a pull request.
+We welcome contributions to enhance this collection of IEEEXtreme 17.0 solutions:
+
+- **Add New Solutions**: Submit solutions for problems not yet covered.
+- **Improve Existing Solutions**: Optimize or clarify current solutions.
+- **Multiple Language Implementations**: Add solutions in other programming languages.
+- **Improve Documentation**: Enhance the README, code comments, or other documentation.
 
 ## License
 
