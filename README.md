@@ -1,3 +1,8 @@
+<!--
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-->
+
 [![GitHub Written in](https://img.shields.io/badge/Written%20in-Python%20%7C%20Java-blue)](https://github.com/Pavith19/IEEEXtreme17.0-solutions)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/IEEEXtreme17.0-solutions)](https://github.com/Pavith19/IEEEXtreme17.0-solutions/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/IEEEXtreme17.0-solutions)](https://github.com/Pavith19/IEEEXtreme17.0-solutions/archive/main.zip)
