@@ -1,3 +1,8 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
+
 num_families, num_lyrics = map(int, input().split())	
 
 current_letter = 'A'
