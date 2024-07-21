@@ -1,3 +1,8 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
+
 def play_game(deck1, deck2):
     seen = set()
     while deck1 and deck2:
