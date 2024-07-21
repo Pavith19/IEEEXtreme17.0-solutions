@@ -1,3 +1,8 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
+
 def is_happy(num): # num is the number to check if it is happy
     seen = set()
     while num != 1 and num not in seen:
