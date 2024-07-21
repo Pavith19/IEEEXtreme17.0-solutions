@@ -1,3 +1,8 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
+
 def get_most_frequent_letter(secret_msg):
     # Initialize dictionary to count occurrences of specific letters
     letter_count = {'a': 0, 'b': 0, 'c': 0, 'd': 0, 'e': 0, 'f': 0, 'g': 0}
